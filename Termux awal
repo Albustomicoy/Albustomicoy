@@ -1,0 +1,22 @@
+ID => PERINTAH TERMUX PHP
+- pkg update
+- pkg upgrade
+- pkg install nano
+- pkg install php
+- pkg install imagemagick
+- pkg install tesseract
+- termux-setup-storage
+- Setelah semuanya selesai  tinggal cari file php nya
+- cd /sdcard/folder target
+
+
+EG => PHP TERMUX COMMAND 
+- pkg update 
+- pkg upgrade
+- pkg install nano 
+- pkg install php 
+- pkg install imagemagick 
+- pkg install tesseract 
+- termux-setup-storage 
+- After everything is done, just look for the php file 
+- cd /sdcard/target folder
